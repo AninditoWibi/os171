@@ -1,0 +1,4 @@
+#aninditowibi
+
+From this course, I expect to understand the inner workings of a computer OS and how it operates in detail.
+I hope that the knowledge gained from this course can further improve my technical skills as an information systems student.
