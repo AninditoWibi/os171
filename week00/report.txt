@@ -1,0 +1,3 @@
+Task desc:
+Registered github account into OS database and tried out PuTTY for logging in to kawung and badak cs servers.
+
