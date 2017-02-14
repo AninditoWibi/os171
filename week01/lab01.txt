@@ -20,3 +20,4 @@ drwxr-xr-x  2 anindito.izdihardian StafCS 4096 Feb 14 11:16 week09
 drwxr-xr-x  2 anindito.izdihardian StafCS 4096 Feb 14 11:17 week10
 drwxr-xr-x  2 anindito.izdihardian StafCS 4096 Feb 14 11:17 xtra
 /home/fasilkom/mahasiswa/a/anindito.izdihardian/os171/week01
+Today is 14 Feb 2017 at 12:12:37
