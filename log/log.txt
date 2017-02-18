@@ -1,0 +1,22 @@
+w00-170206-13-LR-Class Lecture, Intro to OS
+w00-170206-13-LR-Class Lecture, Intro to OS
+w00-170206-14-LR-Class Lecture, Intro to OS
+w00-170206-14-LR-Class Lecture, Intro to OS
+w00-170207-12-PS-GitHub acc registration
+w00-170207-12-PS-Logging in to badak.cs.ui.ac.id
+w00-170208-13-LR-Class Lecture, Review from 3rd sem. materials
+w00-170208-13-LR-Class Lecture, Review from 3rd sem. materials
+w00-170208-14-LR-Class Lecture, Review from 3rd sem. materials
+w00-170208-14-LR-Class Lecture, Review from 3rd sem. materials
+w01-170214-13-LR-Class Lecture, Intellectual Rights
+w01-170214-13-LR-Class Lecture, F/OSS SW definitions
+w01-170214-14-LR-Class Lecture, Bash Scripting
+w01-170214-14-LR-Class Lecture, Bash Scripting
+w01-170215-06-PS-making GitHub folders via CLI
+w01-170215-06-PS-making GitHub folders via CLI
+w01-170215-07-PS-trying out scripting
+w01-170215-22-LR-reading slides from archive
+w01-170216-13-LR-Class Lecture, Bash Scripting
+w01-170216-13-LR-Class Lecture, Bash Commands
+w01-170216-14-LR-Class Lecture, Bash Commands
+w01-170216-14-LR-Class Lecture, Bash Commands
