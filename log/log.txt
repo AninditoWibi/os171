@@ -20,3 +20,8 @@ w01-170216-13-LR-Class Lecture, Bash Scripting
 w01-170216-13-LR-Class Lecture, Bash Commands
 w01-170216-14-LR-Class Lecture, Bash Commands
 w01-170216-14-LR-Class Lecture, Bash Commands
+w02-170221-13-PS-Trying out encryption (week2 task)
+w02-170221-13-PS-Trying out programming in C (week2 task)
+w02-170221-13-DS-discussing C syntax
+w02-170221-14-PS-Trying out encryption (week2 task)
+w02-170221-14-DS-dicussing details of RSA, SHA1, etc.
