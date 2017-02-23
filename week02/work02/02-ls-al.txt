@@ -1,9 +1,0 @@
-total 28
-drwx--x--x  4 anindito.izdihardian StafCS 4096 Feb 21 12:19 .
-drwxr-xr-x 65 root                 root   4096 Feb 14 17:02 ..
--rw-r--r--  1 anindito.izdihardian StafCS 1621 Feb 21 12:17 00-toc.txt
--rw-r--r--  1 anindito.izdihardian StafCS 3158 Feb 21 12:18 01-public-osteam.txt
--rw-r--r--  1 anindito.izdihardian StafCS    0 Feb 21 12:19 02-ls-al.txt
--rw-------  1 anindito.izdihardian StafCS 1823 Feb 21 12:16 .bash_history
-drwxr-xr-x 18 anindito.izdihardian StafCS 4096 Feb 14 11:36 os171
-drwxr-xr-x  3 anindito.izdihardian StafCS 4096 Feb 21 12:08 work

@@ -1,6 +1,0 @@
-/home/fasilkom/mahasiswa/a/anindito.izdihardian/.gnupg/pubring.gpg
-------------------------------------------------------------------
-pub   4096R/48D666D7 2017-02-21 [expires: 2017-08-20]
-uid                  Anindito Izdihardian Wibisono (this is unnerving, to say the least) <anindito.izdihardian@ui.ac.id>
-sub   4096R/F2163C62 2017-02-21 [expires: 2017-08-20]
-
