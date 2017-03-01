@@ -30,3 +30,8 @@ w02-170223-11-PS-revising work02 task
 w02-170223-10-PS-revising work02 task
 w02-170223-10-PS-revising work02 task
 w03-170228-13-LR-Class Lecture, BIOS, Bootup
+w03-170228-13-LR-Class Lecture, BIOS, Bootup
+w03-170228-14-LR-Class Lecture, BIOS, Bootup
+w03-170228-14-LR-Class Lecture, BIOS, Bootup
+w03-170228-15-DS-Discussing UEFI specifics
+w03-170228-16-DS-Discussing bootup steps and details
