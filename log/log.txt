@@ -35,3 +35,10 @@ w03-170228-14-LR-Class Lecture, BIOS, Bootup
 w03-170228-14-LR-Class Lecture, BIOS, Bootup
 w03-170228-15-DS-Discussing UEFI specifics
 w03-170228-16-DS-Discussing bootup steps and details
+w03-170302-13-LR-Class Lecture, BIOS, Bootup (cont)
+w03-170302-13-LR-Class Lecture, BIOS, Bootup (cont)
+w03-170302-14-LR-Class Lecture, Pointers in C
+w03-170302-14-LR-Class Lecture, Nested pointers
+w03-170304-10-PS-finish week03 task
+w03-170304-11-PS-finish week03 task
+
