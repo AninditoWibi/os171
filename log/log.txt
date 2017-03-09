@@ -41,4 +41,5 @@ w03-170302-14-LR-Class Lecture, Pointers in C
 w03-170302-14-LR-Class Lecture, Nested pointers
 w03-170304-10-PS-finish week03 task
 w03-170304-11-PS-finish week03 task
-
+w04-170306-20-PS-progress on week04 task
+w04-170307-19-PS-progress on week04 task (stuck atm)
