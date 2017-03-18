@@ -48,3 +48,10 @@ w04-170309-14-LR-Class Lecture, I/O
 w04-170309-20-PS-reading slides from archive
 w04-170309-21-PS-reading slides from archive
 w04-170310-17-PS-finish week04 task
+w05-170314-13-LR-Class Lecture, Memory
+w05-170314-14-LR-Class Lecture, Memory
+w05-170314-22-LR-reading about malloc()
+w05-170316-13-PS-work on week05 task
+w05-170316-14-PS-work on week05 task
+w05-170318-05-LR-read about c system functions
+w05-170318-09-PS-finish week05 task
