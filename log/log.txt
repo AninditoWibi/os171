@@ -43,3 +43,8 @@ w03-170304-10-PS-finish week03 task
 w03-170304-11-PS-finish week03 task
 w04-170306-20-PS-progress on week04 task
 w04-170307-19-PS-progress on week04 task (stuck atm)
+w04-170309-13-LR-Class Lecture, I/O
+w04-170309-14-LR-Class Lecture, I/O
+w04-170309-20-PS-reading slides from archive
+w04-170309-21-PS-reading slides from archive
+w04-170310-17-PS-finish week04 task
