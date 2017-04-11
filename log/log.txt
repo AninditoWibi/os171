@@ -56,3 +56,6 @@ w05-170316-14-PS-work on week05 task
 w05-170318-05-LR-read about c system functions
 w05-170318-09-PS-finish week05 task
 w06-170406-13-LR-Class Lecture, Processes
+w06-170408-07-PS-start work on week06 task
+w06-170409-21-PS-work on week06 task
+w06-170411-13-LR-Class Lecture, Take-Home exercises on Process Forks
