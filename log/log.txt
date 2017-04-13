@@ -59,3 +59,6 @@ w06-170406-13-LR-Class Lecture, Processes
 w06-170408-07-PS-start work on week06 task
 w06-170409-21-PS-work on week06 task
 w06-170411-13-LR-Class Lecture, Take-Home exercises on Process Forks
+w06-170412-15-PS-continue week06 task
+w07-170413-13-LR-Class Lecture, Race Condition and Critical Sections
+w07-170413-14-LR-Class Lecture, Semaphores
