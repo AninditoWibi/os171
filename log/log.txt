@@ -63,3 +63,5 @@ w06-170412-15-PS-continue week06 task
 w07-170413-13-LR-Class Lecture, Race Condition and Critical Sections
 w07-170413-14-LR-Class Lecture, Semaphores
 w07-170414-17-PS-complete week06 task
+w07-170419-14-PS-begin week07 task
+w08-170420-13-LR-Class Lecture, Scheduling
