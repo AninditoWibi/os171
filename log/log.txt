@@ -65,3 +65,7 @@ w07-170413-14-LR-Class Lecture, Semaphores
 w07-170414-17-PS-complete week06 task
 w07-170419-14-PS-begin week07 task
 w08-170420-13-LR-Class Lecture, Scheduling
+w08-170420-14-LR-Class Lecture, Sockets
+w08-170421-19-DS-discussing about race conditions and mutexes
+w08-170421-20-LR-continue week07 task
+w08-170421-21-LR-continue week07 task
