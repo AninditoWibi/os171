@@ -67,5 +67,11 @@ w07-170419-14-PS-begin week07 task
 w08-170420-13-LR-Class Lecture, Scheduling
 w08-170420-14-LR-Class Lecture, Sockets
 w08-170421-19-DS-discussing about race conditions and mutexes
-w08-170421-20-LR-continue week07 task
-w08-170421-21-LR-continue week07 task
+w08-170421-20-PS-continue week07 task
+w08-170421-21-PS-continue week07 task
+w08-170422-10-PS-turn in week07 task
+w08-170425-13-LR-Class Lecture, Scheduling and Servers
+w08-170425-14-LR-Class Lecture, Scheduling and Servers continued & exercises
+w09-170427-10-DS-discussing about sockets (related to week08 task)
+w09-170427-11-PS-work on week08 task
+w09-170427-13-PS-Class Lecture, filesystems
