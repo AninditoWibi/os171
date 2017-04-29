@@ -73,5 +73,11 @@ w08-170422-10-PS-turn in week07 task
 w08-170425-13-LR-Class Lecture, Scheduling and Servers
 w08-170425-14-LR-Class Lecture, Scheduling and Servers continued & exercises
 w09-170427-10-DS-discussing about sockets (related to week08 task)
-w09-170427-11-PS-work on week08 task
-w09-170427-13-PS-Class Lecture, filesystems
+w09-170427-11-PS-work on week08 task with Rakan Tosa and Irena Gita
+w09-170427-13-LR-Class Lecture, filesystems
+w09-170429-11-PS-finish week08 task
+w09-170429-12-LR-watch video for review task
+w09-170429-13-PS-write review: ulasan1
+w09-170429-13-LR-watch video for review task
+w09-170429-14-PS-write review: ulasan2
+w09-170429-19-PS-push review log and submit review on os.vlsm.org
