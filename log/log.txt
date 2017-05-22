@@ -81,3 +81,4 @@ w09-170429-13-PS-write review: ulasan1
 w09-170429-13-LR-watch video for review task
 w09-170429-14-PS-write review: ulasan2
 w09-170429-19-PS-push review log and submit review on os.vlsm.org
+w10-170522-12-PS-finish entirety of reviews
